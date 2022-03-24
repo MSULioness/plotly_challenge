@@ -10,14 +10,14 @@ Upon opening the website you see the data for patient ID 940, and you have the o
 
 Here's the charts with below descriptions:
 # Bar Chart 
-![This is an image](images/bar chart.jpg)
+![This is an image](https://github.com/MSULioness/plotly_challenge/blob/main/images/bar%20chart.jpg)
 
 I've also created a navigation bar to easily navigate to the bar and bubble charts. 
 
 # Gauge Chart
-![This is an image](images/gauge chart.jpg)
+![This is an image](https://github.com/MSULioness/plotly_challenge/blob/main/images/gauge%20chart.jpg)
 
 # Bubble Chart
-![This is an image](images/bubble chart.jpg)
+![This is an image](https://github.com/MSULioness/plotly_challenge/blob/main/images/bubble%20chart.jpg)
 
 
